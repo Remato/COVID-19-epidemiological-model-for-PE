@@ -1,2 +1,2 @@
-# COVID-19-epidemiological-model-for-PE
+# COVID-19 Epidemiological model
 Epidemiological model for PE-Brazil
